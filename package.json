@@ -1,8 +1,14 @@
 {
   "name": "@alkinum/log4js-module",
   "version": "0.1.0",
-  "license": "UNLICENSED",
-  "private": true,
+  "license": "MIT",
+  "author": "Alkinum",
+  "maintainers": [
+    {
+      "name": "BackRunner",
+      "url": "https://github.com/backrunner"
+    }
+  ],
   "devDependencies": {
     "@types/node": "^16.18.3",
     "@typescript-eslint/eslint-plugin": "^5.43.0",
